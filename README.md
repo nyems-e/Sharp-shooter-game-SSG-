@@ -8,5 +8,5 @@ Design is based on **simplicity and responsiveness**
 + LCD Display
 + Buzzer for both gameplay and better interactivity
 
-
-
+##   Game Play
+!["Game"](./Gameplay1.jpeg )
